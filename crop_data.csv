@@ -1,0 +1,12 @@
+State,Year,Crop,Production,Area
+Gujarat,2019,Rice,120000,30000
+Gujarat,2020,Rice,125000,30500
+Gujarat,2021,Rice,130000,31000
+Gujarat,2022,Rice,128000,30800
+Maharashtra,2019,Rice,90000,25000
+Maharashtra,2020,Rice,95000,25500
+Maharashtra,2021,Rice,97000,25700
+Maharashtra,2022,Rice,98000,26000
+Gujarat,2022,Wheat,60000,15000
+Gujarat,2022,Cotton,80000,20000
+Maharashtra,2022,Wheat,55000,14000
